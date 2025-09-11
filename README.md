@@ -7,7 +7,8 @@ The goal is to uncover trends in vehicle theft and provide insights and recommen
 ---
 
 ## 📊 Dashboard Preview
-![Vehicle Theft Dashboard](./vehicle-stolen.png)
+![Vehicle Theft Dashboard](./vehicle%20stolen.png)
+
 
 ---
 
