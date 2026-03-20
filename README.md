@@ -1,7 +1,7 @@
 # NZ Vehicle Theft Analysis 🚗
 
 
-![Coffee Sales Dashboard](vehicle_theft.png)
+![Coffee Sales Dashboard](vehicle_workflow.png)
 
 ## 📌 Project Overview
 This project analyzes stolen vehicle data in New Zealand over six months, sourced from the New Zealand Police Department’s Vehicle of Interest database. Each record represents a stolen vehicle and includes details on vehicle type, make, year, color, date stolen, and region.  
